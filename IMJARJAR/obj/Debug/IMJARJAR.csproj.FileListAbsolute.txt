@@ -1,0 +1,11 @@
+C:\Users\Michel\Desktop\OIS\IMJARJAR\IMJARJAR\bin\Debug\IMJARJAR.exe.config
+C:\Users\Michel\Desktop\OIS\IMJARJAR\IMJARJAR\obj\Debug\IMJARJAR.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Desktop\OIS\IMJARJAR\IMJARJAR\obj\Debug\IMJARJAR.Login.resources
+C:\Users\Michel\Desktop\OIS\IMJARJAR\IMJARJAR\obj\Debug\IMJARJAR.Properties.Resources.resources
+C:\Users\Michel\Desktop\OIS\IMJARJAR\IMJARJAR\obj\Debug\IMJARJAR.csproj.GenerateResource.Cache
+C:\Users\Michel\Desktop\OIS\IMJARJAR\IMJARJAR\bin\Debug\IMJARJAR.exe
+C:\Users\Michel\Desktop\OIS\IMJARJAR\IMJARJAR\bin\Debug\IMJARJAR.pdb
+C:\Users\Michel\Desktop\OIS\IMJARJAR\IMJARJAR\bin\Debug\MySql.Data.dll
+C:\Users\Michel\Desktop\OIS\IMJARJAR\IMJARJAR\obj\Debug\IMJARJAR.exe
+C:\Users\Michel\Desktop\OIS\IMJARJAR\IMJARJAR\obj\Debug\IMJARJAR.pdb
+C:\Users\Michel\Desktop\OIS\IMJARJAR\IMJARJAR\obj\Debug\IMJARJAR.IMJARJAR.resources
